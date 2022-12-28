@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://twitter.com/ahmedmejbas" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmejbas?logo=twitter&style=for-the-badge" alt="ahmedmejbas" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
-<div align="right">  
+<div align="center">  
  <img  src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  alt="Coding">
  </div>
 <h3 align="center">Connect with me:</h3>

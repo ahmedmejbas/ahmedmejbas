@@ -7,8 +7,10 @@
 
 <p align="center"> <a href="https://twitter.com/ahmedmejbas" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmejbas?logo=twitter&style=for-the-badge" alt="ahmedmejbas" /></a> </p>
 
-- 🌱 I’m currently learning **Java**  
- <img align="center" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  alt="Coding">
+- 🌱 I’m currently learning **Java**
+<div align="right">  
+ <img  src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  alt="Coding">
+ </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ahmedmejbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedmejbas" height="30" width="40" /></a>
